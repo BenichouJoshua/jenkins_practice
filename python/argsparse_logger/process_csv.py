@@ -14,5 +14,5 @@ df = pd.read_csv(args.filePath, encoding='latin1')
 
 for row in df.iterrows():
     results.WriteToFile(f"{row[1][0]},{row[1][1]},{int(row[1][0]) + int(row[1][1])}")
-       
-        
+
+print("added something")       
