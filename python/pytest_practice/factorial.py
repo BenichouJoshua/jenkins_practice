@@ -7,6 +7,4 @@ def Factorial(number):
     return number * Factorial(number - 1)
 
 for x in range(1, 5):
-    breakpoint()
-
     print(Factorial(x))
