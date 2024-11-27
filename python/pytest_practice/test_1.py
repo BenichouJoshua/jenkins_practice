@@ -2,7 +2,7 @@
 class TestClass:
     def test_one(self):
         x = "this"
-        assert "h" in x
+        assert "x" in x
 
     def test_two(self):
         x = "hello check"
