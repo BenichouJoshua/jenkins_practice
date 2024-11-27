@@ -1,0 +1,6 @@
+2024-11-26 12:11:02.894361 | SUCCES | Logger created !
+2024-11-26 12:11:02.894384 | MSG | Hi Josh! Your are 30 years old
+2024-11-26 12:47:46.650042 | SUCCES | Logger created !
+2024-11-26 12:47:46.650055 | MSG | Hi josh! Your are 30 years old
+2024-11-26 12:47:51.048967 | SUCCES | Logger created !
+2024-11-26 12:47:51.048981 | MSG | Hi josh! Your are 30 years old
